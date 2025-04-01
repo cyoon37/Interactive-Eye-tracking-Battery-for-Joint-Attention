@@ -1,5 +1,3 @@
 # IET-JA
 
-Sample stimuli and SR-specific implementation maps are hosted on Google Drive and available for download.
-
-https://drive.google.com/drive/folders/1M3MtUlZBS2yg8i2QaNX8w309UEIVHFgx?usp=sharing
+Sample stimuli and SR-specific implementation map are available for download under the [Releases] (https://github.com/cyoon37/Interactive-Eye-tracking-Battery-for-Joint-Attention/releases/tag/IET-JA_sample) section of this repository.
